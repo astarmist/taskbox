@@ -16,6 +16,7 @@
         :readonly="true"
         :value="this.task.title"
         placeholder="Input title"
+        style="text-overflow: ellipsis;"
       />
     </div>
 
