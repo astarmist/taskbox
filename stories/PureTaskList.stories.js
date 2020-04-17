@@ -1,4 +1,4 @@
-import PureTaskList from "./PureTaskList";
+import PureTaskList from "../src/components/PureTaskList";
 import { taskData, actionsData } from "./Task.stories";
 
 const paddedList = () => {

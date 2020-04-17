@@ -1,6 +1,6 @@
 import Vue from "vue";
 import Vuex from "vuex";
-import PureInboxScreen from "./PureInboxScreen.vue";
+import PureInboxScreen from "../src/components/PureInboxScreen";
 import { action } from "@storybook/addon-actions";
 import { defaultTasksData } from "./PureTaskList.stories";
 
